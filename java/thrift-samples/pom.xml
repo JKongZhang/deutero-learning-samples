@@ -25,7 +25,7 @@
     </modules>
 
     <properties>
-        <libthrift.version>0.12.0</libthrift.version>
+        <libthrift.version>0.14.0</libthrift.version>
         <slf4j-log4j12.version>1.7.5</slf4j-log4j12.version>
     </properties>
 
